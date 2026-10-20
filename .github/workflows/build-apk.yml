@@ -1,6 +1,5 @@
 
-name: Build Nagham APK
-
+name: Build Nagham apk
 on:
   workflow_dispatch:
 
